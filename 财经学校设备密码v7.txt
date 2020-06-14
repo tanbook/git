@@ -1,0 +1,24 @@
+AR3260     admin  Admin@123
+ASG2000    admin  Admin@123
+USG5120    admin  Admin@123  |  huawei  huawei@123
+S5700      admin  Admin@123
+-------------------------
+实训楼所有设备：admin@huawei.com     Admin@123456----2楼---- yccjxy yccjxy@123
+
+
+
+R3260: admin  Admin@123   |  tianbo tanbook112358
+
+R2240: admin cjxx@huawei  |  tianbo tanbook112358
+6308:  admin Huawei@123   |  tianbo Tanbook112358
+2709:  admin Admin@123
+++++++++++++++++++++++++
+环保局AR2200     admin  Admin@huawei 
+住建局AR2200     admin  admin@huawei
+++++++++++++++++++++++++
+运管处：1234qwer!@#$
+++++++++++++++++++++++++++++
+电大S5700：Admin@123       H3C：admin
+++++++++++++++++++++++++++++
+治超办：admin,telneter:Admin@123456  web:WEB@123456
+ 
